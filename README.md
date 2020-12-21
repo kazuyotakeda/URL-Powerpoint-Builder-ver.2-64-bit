@@ -4,4 +4,4 @@ This source code automatically creates a clipping report for media monitoring fr
 
 <b>More Info:</b></br>
 Youtube - Demo: https://youtu.be/5Y6qoZKrxb4</br>
-Youtube - Prerequisites: https://youtu.be/J3nWIp7JsNs
+Youtube - Installation: https://youtu.be/J3nWIp7JsNs
